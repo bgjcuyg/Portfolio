@@ -246,7 +246,9 @@ section
     display: flex;
 }
 .about-pic{
+    border-style: double ;
     border-radius: 2rem;
+    padding: 10px;
    
 }
 
